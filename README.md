@@ -51,6 +51,8 @@ containers06/
 
 <img width="979" height="446" alt="Снимок экрана 2026-05-06 152729" src="https://github.com/user-attachments/assets/e21d86ac-6147-4fee-9d00-77cfd9ea620e" />
 
+
+
 <img width="478" height="131" alt="Снимок экрана 2026-05-06 152712" src="https://github.com/user-attachments/assets/67f7b984-16a6-4897-bd30-41cb1a00177b" />
 
 ---
