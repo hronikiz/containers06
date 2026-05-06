@@ -59,6 +59,8 @@ containers06/
 
 <img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153213" src="https://github.com/user-attachments/assets/3a6536eb-71be-4d99-b194-9b1cc6611fd2" />
 
+<img width="979" height="446" alt="Снимок экрана 2026-05-06 152729" src="https://github.com/user-attachments/assets/e21d86ac-6147-4fee-9d00-77cfd9ea620e" />
+
 ---
 
 ### 4. Запуск frontend (nginx)
