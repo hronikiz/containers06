@@ -76,7 +76,7 @@ containers06/
 Сайт открыт в браузере по адресу:
 
 http://localhost
-<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/7b843c15-e2fe-406b-a617-fbe7f35292b2" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153123" src="https://github.com/user-attachments/assets/10282ca0-25a5-46bb-ac26-c4d10fd2e663" />
 
 При корректной настройке отображается PHP-страница.
 
