@@ -48,6 +48,7 @@ containers06/
 ### 2. Создание Docker сети
 Создана сеть internal для взаимодействия контейнеров.
 <img width="605" height="45" alt="Снимок экрана 2026-05-06 152704" src="https://github.com/user-attachments/assets/0ae50e4b-36fd-485d-99bb-a5338502f004" />
+
 <img width="979" height="446" alt="Снимок экрана 2026-05-06 152729" src="https://github.com/user-attachments/assets/e21d86ac-6147-4fee-9d00-77cfd9ea620e" />
 
 ---
@@ -55,7 +56,9 @@ containers06/
 ### 3. Запуск backend (php-fpm)
 Создан контейнер backend на базе php-fpm, подключённый к сети internal, с примонтированной директорией сайта в /var/www/html.
 <img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/6ea2fe95-8299-4c72-a1e2-344d7d068963" />
+
 <img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153213" src="https://github.com/user-attachments/assets/3a6536eb-71be-4d99-b194-9b1cc6611fd2" />
+
 <img width="478" height="131" alt="Снимок экрана 2026-05-06 152712" src="https://github.com/user-attachments/assets/67f7b984-16a6-4897-bd30-41cb1a00177b" />
 
 ---
@@ -73,9 +76,10 @@ containers06/
 Сайт открыт в браузере по адресу:
 
 http://localhost<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/7b843c15-e2fe-406b-a617-fbe7f35292b2" />
-<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153213" src="https://github.com/user-attachments/assets/b575d11f-3fbd-4b5c-ab3f-1aa5b5dcea1c" />
-<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/0f46db83-8c3d-436d-afb0-cecc6fb698a7" />
 
+<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153213" src="https://github.com/user-attachments/assets/b575d11f-3fbd-4b5c-ab3f-1aa5b5dcea1c" />
+
+<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/0f46db83-8c3d-436d-afb0-cecc6fb698a7" />
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c22b1077-4976-4dda-9783-373ca90d36fe" />
 
