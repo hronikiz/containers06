@@ -51,6 +51,8 @@ containers06/
 
 <img width="979" height="446" alt="Снимок экрана 2026-05-06 152729" src="https://github.com/user-attachments/assets/e21d86ac-6147-4fee-9d00-77cfd9ea620e" />
 
+<img width="478" height="131" alt="Снимок экрана 2026-05-06 152712" src="https://github.com/user-attachments/assets/67f7b984-16a6-4897-bd30-41cb1a00177b" />
+
 ---
 
 ### 3. Запуск backend (php-fpm)
@@ -58,8 +60,6 @@ containers06/
 <img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/6ea2fe95-8299-4c72-a1e2-344d7d068963" />
 
 <img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153213" src="https://github.com/user-attachments/assets/3a6536eb-71be-4d99-b194-9b1cc6611fd2" />
-
-<img width="478" height="131" alt="Снимок экрана 2026-05-06 152712" src="https://github.com/user-attachments/assets/67f7b984-16a6-4897-bd30-41cb1a00177b" />
 
 ---
 
