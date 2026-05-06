@@ -75,13 +75,8 @@ containers06/
 ### 5. Проверка работы
 Сайт открыт в браузере по адресу:
 
-http://localhost<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/7b843c15-e2fe-406b-a617-fbe7f35292b2" />
-
-<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153213" src="https://github.com/user-attachments/assets/b575d11f-3fbd-4b5c-ab3f-1aa5b5dcea1c" />
-
-<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/0f46db83-8c3d-436d-afb0-cecc6fb698a7" />
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c22b1077-4976-4dda-9783-373ca90d36fe" />
+http://localhost
+<img width="1919" height="1079" alt="Снимок экрана 2026-05-06 153208" src="https://github.com/user-attachments/assets/7b843c15-e2fe-406b-a617-fbe7f35292b2" />
 
 При корректной настройке отображается PHP-страница.
 
@@ -109,4 +104,4 @@ backend:9000
 ---
 
 ## Вывод
-В ходе работы изучено взаимодействие Docker-контейнеров в общей сети. Реализована схема из двух контейнеров (ng<img width="605" height="45" alt="Снимок экрана 2026-05-06 152704" src="https://github.com/user-attachments/assets/3c194d5d-2fd8-4429-aab6-e3da864ba360" />
+В ходе работы изучено взаимодействие Docker-контейнеров в общей сети. Реализована схема из двух контейнеров 
